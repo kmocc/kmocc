@@ -2,11 +2,11 @@ Hello, 👋
 
 I Am a **Software Engineer** and **Full Stack Developer**
 
-To Contact Me Please Send Me an [Email](luadeer@gmail.com) or Message me on Discord @ kmoc
+To Contact Me Please Send Me an [Email](luadeer@gmail.com) or Message me on [Discord](https://discord.com/users/459798466269282305)
 
-**Current Stack**
+<h2 align="left"><i>Current Stack</i></h2>
 
-GIT,
+GI)T,
 Python,
 FastAPI,
 Tkinter,
