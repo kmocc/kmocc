@@ -6,7 +6,7 @@ To Contact Me Please Send Me an [Email](luadeer@gmail.com) or Message me on [Dis
 
 <h2 align="left"><i>Current Stack</i></h2>
 
-GI)T,
+GIT,
 Python,
 FastAPI,
 Tkinter,
