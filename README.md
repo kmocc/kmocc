@@ -1,16 +1,22 @@
-Hello, 👋
+## 💼 Skill set
+FiveM, Full Stack software development, UI/UX designing and development, tinkering.
 
-I Am a **Software Engineer** and **Full Stack Developer**
+## 🔠 Languages
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=lua,ts,js,py" />
+  </a>
+</p>
 
-To Contact Me Please Send Me an [Email](luadeer@gmail.com) or Message me on [Discord](https://discord.com/users/459798466269282305)
+## 💻 Tech
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=electron,react,materialui,vscode,powershell,express,fastapi,mysql,git,figma,nodejs,npm,pnpm,postman,cloudflare" />
+  </a>
+</p>
 
-<h2 align="left"><i>Current Stack</i></h2>
+## 💭 Learning
+I am currently learning more about prototyping and OOP in lua to expand the capabilities of Lua code.
 
-<img src="https://cdn.discordapp.com/attachments/989708887903068160/1132889132977377330/MyStack.png"><img/>
+## 📉 Stats
 
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kmocc&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmocc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=kmocc&show_icons=true&count_private=true&theme=dark&hide_border=true" height="175" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmocc&layout=compact&langs_count=5&theme=dark&hide_border=true" height="175" alt="languages graph"  />
