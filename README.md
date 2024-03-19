@@ -1,3 +1,6 @@
+## 💬 Contact
+To contact me, visit my discord server https://discord.gg/kmoc
+
 ## 💼 Skill set
 FiveM, Full Stack software development, UI/UX designing and development, tinkering.
 
