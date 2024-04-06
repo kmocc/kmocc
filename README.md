@@ -12,7 +12,7 @@ FiveM, Full Stack software development, UI/UX designing and development, tinkeri
 
 ## 💻 Tech
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=electron,react,materialui,vscode,powershell,express,fastapi,mysql,git,figma,nodejs,npm,pnpm,postman,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=electron,react,materialui,vscode,powershell,express,fastapi,mysql,git,figma,nodejs,npm,pnpm,postman,cloudflare,styledcomponents" />
   </a>
 </p>
 
